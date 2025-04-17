@@ -1,0 +1,19 @@
+---
+title: "Projects"
+---
+
+## 🎵 Ticketmaster Event Analytics – Pricing & Sell-Out Prediction
+• Analyzed 1,000+ Ticketmaster event records to predict sell-out probability and ticket pricing using classification and regression
+models.
+• Built Tableau dashboards to visualize pricing trends, genre demand, and promoter impact; automated SQL pipelines for KPI
+generation
+
+## 📈 VSAV Trading Strategy - Backtesting Volatility-Sentiment Models 
+• Developed a regime-aware trading algorithm combining Vortex Indicators, sentiment signals, and volatility-based position sizing to
+outperform S&P 500.
+• Conducted grid search optimization to identify ideal indicator periods and benchmarked strategy performance vs. SPY.
+• Built an interactive Streamlit + Plotly dashboard to visualize market regimes, performance trends, and strategic allocations
+
+## 🎯 RFM Segmentation & Targeting Project in collaboration with KPMG
+Conducted market segmentation and RFM analysis for optimizing marketing campaigns.
+

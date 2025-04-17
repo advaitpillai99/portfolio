@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Built a machine learning model to predict concert ticket prices and sell-out probability using Ticketmaster data.\n\n\n\nDeveloped a hybrid trading algorithm combining sentiment analysis and volatility indicators to outperform SPY.\n\n\n\nConducted market segmentation and RFM analysis for optimizing marketing campaigns."
+  },
+  {
+    "objectID": "projects.html#ticketmaster-event-analytics-pricing-sell-out-prediction",
+    "href": "projects.html#ticketmaster-event-analytics-pricing-sell-out-prediction",
+    "title": "Projects",
+    "section": "",
+    "text": "Built a machine learning model to predict concert ticket prices and sell-out probability using Ticketmaster data."
+  },
+  {
+    "objectID": "projects.html#vsav-trading-strategy---backtesting-volatility-sentiment-models",
+    "href": "projects.html#vsav-trading-strategy---backtesting-volatility-sentiment-models",
+    "title": "Projects",
+    "section": "",
+    "text": "Developed a hybrid trading algorithm combining sentiment analysis and volatility indicators to outperform SPY."
+  },
+  {
+    "objectID": "projects.html#rfm-segmentation-targeting-project-in-collaboration-with-kpmg",
+    "href": "projects.html#rfm-segmentation-targeting-project-in-collaboration-with-kpmg",
+    "title": "Projects",
+    "section": "",
+    "text": "Conducted market segmentation and RFM analysis for optimizing marketing campaigns."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can download my CV here:\n👉 Download my CV"
+  },
+  {
+    "objectID": "cv.html#professional-summary",
+    "href": "cv.html#professional-summary",
+    "title": "CV",
+    "section": "Professional Summary",
+    "text": "Professional Summary\n\nMaster’s in Applied Business Analytics student at Boston University.\nStrong foundation in SQL, Python, marketing analytics, and AWS.\nInterested in roles across analytics, consulting, and data science."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi, I’m Advait - turning data into stories, insights into action, and coffee into code.\nWelcome to my digital workshop, where business meets analytics, creativity meets logic, and every project is built with a dash of ambition.\nI’m passionate about applying analytics to solve real-world business problems and continuously expanding my technical and business skillset."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Get in Touch\n📧 Email: [advaitp@bu.edu]\n📍 Location: Boston, MA\nFeel free to reach out regarding analytics, consulting, or collaboration opportunities! Messages for a quick chat on music are also welcome!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome!\nHi, I’m Advait Pillai.\nWelcome to my personal portfolio website!\nExplore my About, Projects, and CV to learn more about my background and work."
+  }
+]

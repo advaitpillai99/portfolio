@@ -1,0 +1,16 @@
+---
+title: "CV"
+---
+
+
+You can download my CV here:
+
+👉 [Download my CV](cv.pdf)
+
+---
+
+## Professional Summary
+
+- Master's in Applied Business Analytics student at Boston University.
+- Strong foundation in SQL, Python, marketing analytics, and AWS.
+- Interested in roles across analytics, consulting, and data science.

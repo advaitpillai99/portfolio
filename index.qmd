@@ -1,0 +1,10 @@
+---
+title: "Home"
+---
+
+# Welcome!
+
+Hi, I'm Advait Pillai.  
+Welcome to my personal portfolio website!
+
+Explore my **[About](about.qmd)**, **[Projects](projects.qmd)**, and **[CV](cv.qmd)** to learn more about my background and work.

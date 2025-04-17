@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+# Hi, I'm Advait - turning data into stories, insights into action, and coffee into code.
+
+Welcome to my digital workshop, where business meets analytics, creativity meets logic, and every project is built with a dash of ambition.
+
+I'm passionate about applying analytics to solve real-world business problems and continuously expanding my technical and business skillset.
